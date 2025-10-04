@@ -47,6 +47,10 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
+## Aprendizado
+
+Aprofundei meu conhecimento sobre HTML, CSS e aprendi sobre tecnoligias novas JavaScript, Git e GitHub. 
+
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
