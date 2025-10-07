@@ -3,6 +3,9 @@
     "esbenp.prettier-vscode",
     "PKief.material-icon-theme",
     "rocketseat.theme-omni",
-    "ritwickdey.LiveServer"
+    "ritwickdey.LiveServer",
+    "formulahendry.auto-rename-tag",
+    "miguelsolorio.symbols",
+    "naumovs.color-highlight"
   ]
 }
